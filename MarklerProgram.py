@@ -1,3 +1,5 @@
+//Von Nils, Sopfie und Jonathan
+
 import os
 
 class Room:
